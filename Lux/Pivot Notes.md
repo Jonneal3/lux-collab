@@ -1,0 +1,13 @@
+- Better Leads
+	- Highly Motivated
+		- Probate Attorneys
+		- Estate Sale
+		- Divorce
+		- Job Relocation
+		- Contractors
+- Geographical markets
+	- Lets do only the hottest ones
+- Developers vs. Builders
+	- Builders are not the best buyers, but investors/ devlopers that are more willing to outbid others on deals only exist in larger, etablished, hotter markets, not inboutqitue markets
+- Smaller spreads
+	- 

@@ -1,0 +1,18 @@
+- Add Buyers, Buyboxes etc.
+	- Add property owners 
+		- Sticky
+			- Manually add buyboxes
+		- ~~Lux email~~
+		- ~~Personal Gmail~~
+		- ~~SMS~~
+		- Phone calls
+- Buyers
+	- De-Duplicate
+	- Enrich
+- Contact
+	- Dedupe
+	- Enrich
+	- Add To Buyers
+- Seeding
+	- Active Markets
+	- Redfin / Zillow Comps For Teardowns 

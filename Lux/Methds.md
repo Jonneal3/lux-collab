@@ -1,0 +1,8 @@
+- Redfin method ( from video to find already local builders and buyers) - sometimes needs permit record research
+- Claude list - call email and text
+	- Luxury Spec builders
+	- Buy everything in that area
+	- Deep pockets
+- Google maps (nearby)
+- Facebook
+- Agents

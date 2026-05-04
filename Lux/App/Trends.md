@@ -1,0 +1,6 @@
+- Trends  (Global Trends) / Market Layer
+	- Heat maps of areas that:
+		- Have lots of luxury end buyers in the area
+		- Have lots of buy boxes targeting this area
+		- Are transacting fast
+		- Are transacting at high rates

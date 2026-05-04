@@ -1,0 +1,10 @@
+- Formally Inbounded
+			- Methods
+				- Emails
+				- On A Call
+				- SMS
+				- Map Screenshots
+				- Zip Lists
+	- Publicly Scraped
+		- Websites
+			- A lot of companies have their current for sale listings and older on their website
