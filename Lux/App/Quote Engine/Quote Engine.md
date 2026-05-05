@@ -4,46 +4,30 @@
 	- First thing it does, is take screenshots of multipel angles
 
 - Comps
+	- Parcel score directly tied to the property weight and quote
 	- Quotes
 		- Specific quotes they have given for certain properties
-	- Scrape Zillow, MLS, or Redfin for:
+	- Comps (Scrape Zillow, MLS, or Redfin)
 		- Recently (up to 1 year) sold likely teardown lots (or vacant land) built before 1975
 			- What likely dirt has gone for recently
 
 
-- Parcel Layer: This layer basically gives us feedback on specific parcels we come across
-	- Land Value Factors
-		- Slope
-		- ==Zoning:== 
-			- ==Historic Districts:== 
-				- ==NPS Arc Gis==
-				- ==Is there a way to find this in the parcel info itself?==
-				- ==Not needed on map==
-			- ==Flood Zone:== 
-				- ==FEMA==
-				- ==Is there a way to find this in the parcel info itself?==
-				- ==Not Needed on Map==
+
+
+
+
+Main things I did:
+
+- Pulled the shared zoning source note up to the category level instead of repeating it 3x
+- Removed the redundant "is there a way to find this" notes (can live elsewhere)
+- Tightened the wording on a few items
+
+Want to add a **data source** column to any of these, or keep it notes-only for now?
+
 
 		- Can be added in later
-			- ==Height restrictions:== 
-				- ==City Zoning Map==
-				- ==Maybe we can triangulate with the zoning bylaws, the actual zone info and a screenshot of the zoning map too==
-			- ==Buildable Sqft==
-				- ==City Zoning Map==
-				- ==Maybe we can triangulate with the zoning bylaws, the actual zone info and a screenshot of the zoning map too==
-			- ==Frontage==
-				- ==City Zoning Map==
-				- ==Maybe we can triangulate with the zoning bylaws, the actual zone info and a screenshot of the zoning map too==
-		- End Buyer Preferences
-			- Views etc.
-			- Busy Streets
-			- Some places "need" pools
-			- Whats around it
-			- Corner vs. Interior lots
-		- Proximity (Area/Neighborhood)
-			- Bad/ Good parts
-			- Near beaches
-			- Near Schools
+		
+
 
 
 Build Plan

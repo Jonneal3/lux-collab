@@ -14,5 +14,5 @@
 	- Enrich
 	- Add To Buyers
 - Seeding
-	- Active Markets
-	- Redfin / Zillow Comps For Teardowns 
+	- ~~Active Markets~~
+	- Redfin / Zillow Comps For Teardown's 

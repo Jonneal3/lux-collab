@@ -1,0 +1,5 @@
+- When a quotes comes in, its stores the quote attached to the property
+	- This relationship is used at real time in the [[Quote Engine]] to influence the quote
+	- Stored with buybox info
+		- Historic District _(NPS ArcGIS — not needed on map)_
+		- Flood Zone _(FEMA — not needed on map)_
