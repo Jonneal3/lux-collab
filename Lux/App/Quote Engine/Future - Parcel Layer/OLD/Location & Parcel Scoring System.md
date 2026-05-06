@@ -10,6 +10,7 @@ Location Score JSON
 		- Otherwise:  
 			- `busy_road = false`
 
+
 - Parcel Score
 	- Lot size: Cost Per Sqft.
 		- This is baked right into the parcel
