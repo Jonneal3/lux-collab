@@ -12,14 +12,10 @@ Jon
 - The go through my sticky note and :
 	- Add an adjust buy boxes/ quotes and other info
 	- Go through texts and connect buyers, quotes and outcomes into already existing properties
-
+- Contacts Need Addresses too etc.
+	- For lone buyers
 
 Done
-- ~~Easily email properties to buyers who are interstedi n real time - select the properties to attach~~
-- ~~Finish zip code update (atlanta, WPB)~~
-- ~~Re-compile comps for all zips~~
-- ~~Contacts Need Addresses too etc.~~
-	- ~~For lone buyers~~
 - ~~Add Teardown Comps into active areas
 - ~~Active markets~~
  - ~~Create a script to merge and de-duplicate buyers and contacts~~
