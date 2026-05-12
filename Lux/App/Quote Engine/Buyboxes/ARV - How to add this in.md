@@ -8,3 +8,5 @@
 			- What are possible ARV's in the area
 			- How many high value newly built homes are in the area (hot spot)
 			- How long did they sit on the market
+
+

@@ -1,6 +1,3 @@
-- Determine a starting price per sqft range
-		- We can add al algorithm that will adjust buy-boxes as the more data comes in
-
 - Starting Data Points
 	- Buy box types
 		- System created
@@ -27,14 +24,3 @@
 
 To add later:
 - Busy Road: Will they do main roads?
-
-- Methods
-	- Inbound
-		- Emails
-		- On A Call
-		- SMS
-		- Map Screenshots
-		- Zip Lists
-	- Outbound
-		- Websites
-			- A lot of companies have their current for sale listings and older on their website
