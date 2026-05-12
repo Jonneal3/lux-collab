@@ -6,16 +6,26 @@ Jon
 - Is there a way of calcuating land value / sqft better - form a more builder perspective - ARV / sqft
 - Twilio stuff
 
+- Fix the pricing formula
+- Admin mode grid view
+- We need to add lot size into buy boxes of what they want
+	- Scott sent me nicks buy box criteria
+
 
 - Add a system suggested buybox fill in feature
 	- it will basically use teardown comps in any given buybox for a new buyer to basically set a starting price floor area
+
 - The go through my sticky note and :
 	- Add an adjust buy boxes/ quotes and other info
 	- Go through texts and connect buyers, quotes and outcomes into already existing properties
-- Contacts Need Addresses too etc.
-	- For lone buyers
+
 
 Done
+- Contacts Need Addresses too etc.
+	- For lone buyers
+- Easily email properties to buyers who are intersted in real time - select the properties to attach
+- ~~Finish zip code update (atlanta, WPB)~~
+- ~~Re-compile comps for all zips~~
 - ~~Add Teardown Comps into active areas
 - ~~Active markets~~
  - ~~Create a script to merge and de-duplicate buyers and contacts~~
