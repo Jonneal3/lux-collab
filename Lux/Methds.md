@@ -1,4 +1,6 @@
 - Redfin method ( from video to find already local builders and buyers) - sometimes needs permit record research
+- Linkedin Lookalikes
+- Apollo
 - Claude list - call email and text
 	- Luxury Spec builders
 	- Buy everything in that area
