@@ -5,6 +5,8 @@
 Jon
 - Twilio stuff
 - Maps coloration still bad in oterh views
+- How can I get imessages to download? 
+
 - Fix the pricing formula
 	- The formula:
 		- Break everything down into a grid based on this

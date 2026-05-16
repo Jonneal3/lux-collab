@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lux/Methds.md",
+                "file": "Lux/To Do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Methds"
+              "title": "To Do"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "aaa4aa05b9a50162",
   "lastOpenFiles": [
+    "Lux/Methds.md",
     "Lux/Pivot Notes.md",
     "Lux/Notes.md",
     "Lux/To Do.md",
@@ -220,7 +221,6 @@
     "Lux/App/Quote Engine/Future - Parcel Layer/OLD/Location & Parcel Scoring System.md",
     "Lux/App/How to Get Buyboxes.md",
     "Lux/Properties/West Palm Properties.md",
-    "Lux/Methds.md",
     "Lux/App/Quote Engine/Buyboxes",
     "Lux/App/Quote Engine/Future - Parcel Layer/OLD",
     "Lux/App/Quote Engine/Future - Parcel Layer",
