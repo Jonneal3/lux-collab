@@ -21,3 +21,19 @@ Buyer buy boxes
 - Represent direct buyer behavior and stated preferences
 - Should override system defaults where applicable
 - Should evolve based on that buyer’s own behavior and quotes
+
+How buyer buy boxes enter the system
+- Emails
+- SMS
+- Phone calls
+- ZIP lists
+- Map screenshots
+- Website and project research
+
+Operational rule
+- Every serious buyer should have an active usable profile at all times, whether inherited from a system template or fully buyer-specific.
+
+Evolution rule
+- Buyer buy boxes evolve from that buyer's own behavior
+- System buy boxes evolve from market-wide behavior, comps, and quote outcomes
+- These two layers should inform each other without collapsing into one record type

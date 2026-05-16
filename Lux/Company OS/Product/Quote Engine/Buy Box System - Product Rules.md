@@ -11,3 +11,5 @@ Operational rules
 - System-generated buy boxes should default to the right strategy assumptions for the market
 - System and buyer buy boxes should evolve independently
 - Market corrections should affect default logic, not rewrite buyer truth
+- Buyer-given ranges should remain buyer truth and should not be silently rewritten
+- System-generated defaults should behave like safety rails and starting intelligence
