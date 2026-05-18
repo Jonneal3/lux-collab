@@ -1,38 +1,36 @@
 # Lux Ventures Group Company OS
 
-This is the canonical operating system for Lux Ventures Group inside the `lux-vault`.
+This folder is the operating system for Lux Ventures Group.
 
 Founders
 - Scott Little
 - Jon Neal
 
 Business focus
-- Luxury market real estate wholesaling
-- Teardown and infill opportunities in neighborhoods where finished luxury product can materially outrun dirt value
-- Build a repeatable system that can source, price, package, and move opportunities faster than traditional local operators
+- Luxury market real estate wholesaling.
+- Primary hunt: teardown and infill opportunities in markets where ARV can be 3x to 4x lot and land value.
 
-Core company notes
+What this OS is for
+- Keep humans and AI agents working from the same source of truth.
+- Break the business into departments, modules, scorecards, and action queues.
+- Turn founder knowledge into repeatable systems.
+
+Start here
 - [[01 - Company Thesis]]
 - [[02 - Active Markets]]
 - [[03 - Human + AI Operating Model]]
 - [[04 - Weekly Operating Rhythm]]
 - [[05 - Update Log]]
-- [[06 - 12 Month Goals]]
-
-Operating areas
 - [[Departments/00 - Departments Index]]
-- [[Departments/Tech/Applications/00 - Applications Index]]
-- [[Departments/Tech/Data Systems/00 - Data Systems Index]]
-- [[Product/00 - Product Index]]
-- [[Markets/00 - Markets Index]]
-- [[Backlog/00 - Backlog Index]]
-- [[Archive/00 - Archive Index]]
 
-Working rule
-- New canonical strategy, market, product, and workflow notes should live under `Company OS`.
-- Legacy drafts outside this area are being kept only as deprecated references in archive.
+Connected existing notes
+- [[App/Buildout]]
+- [[App/Tech Stack]]
+- [[App/Quote Engine/Quote Engine System - Overview]]
+- [[App/Adding New Markets/Adding A New Geographical Market]]
 
-Current build stage
-- Phase 1: establish the company operating system
-- Phase 2: create market playbooks, product specs, and workflow SOPs
-- Phase 3: connect the vault to bots, coding agents, CRM updates, and reporting loops
+Part 1 status
+- Company OS structure created
+- Department hubs created
+- Starter plans and direction added
+- Ready for next pass: templates, SOPs, and agent-specific workflows
