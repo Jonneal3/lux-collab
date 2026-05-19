@@ -4,28 +4,36 @@ Company
 - Lux Ventures Group
 
 Mission
-- Build a luxury-focused real estate wholesaling company that wins by combining local market judgment, strong buyer intelligence, and a purpose-built internal software stack.
+- Build a luxury-focused real estate wholesaling platform that can identify, price, package, and move teardown and infill opportunities faster than traditional operators.
 
 Core thesis
-- The best opportunities are teardown and infill properties in wealthy neighborhoods where lot scarcity is real, builders are active, and end-buyer demand is proven.
-- Lux should prioritize markets where ARV is often 3x to 4x land value, because that creates room for assignments while still leaving enough margin for the buyer.
-- Neighborhood selection matters more than metro branding. The company should focus on narrow high-signal pockets, not broad city coverage.
+- The best markets are neighborhoods where land is scarce, end-buyer demand is deep, and finished luxury product sells at a multiple of dirt value.
+- Lux should focus where ARV is roughly 3x to 4x land and lot value, because that spread creates room for builders, developers, and aggressive infill buyers to bid hard.
+- The company advantage comes from speed, data quality, buyer intelligence, and consistent market playbooks.
 
-Strategic advantages Lux is trying to build
-- Better buyer intelligence than local wholesalers
-- Faster quote generation with better confidence
-- Market selection driven by data and builder behavior
-- A shared operating system for humans and AI agents
-- Repeatable market-entry playbooks instead of one-off hustle
+What makes Lux different
+- Market-first instead of nationwide spray-and-pray.
+- Buyer-first instead of generic cash-buyer lists.
+- Data-assisted underwriting instead of gut-only pricing.
+- Human relationship building supported by AI coding agents, research agents, and workflow automation.
 
-Ideal deal profile
-- Prime infill or teardown lot
-- Clear luxury resale demand nearby
-- Builder or developer buyer depth in that pocket
-- Enough spread to create urgency and assignment margin
-- Low ambiguity on whether the parcel is actually buildable and desirable
+Current strategic pillars
+- Own the best buyer intelligence in each active market.
+- Build repeatable market entry playbooks.
+- Improve quote speed and price confidence.
+- Turn calls, texts, emails, and notes into structured operating data.
+- Create compounding automation across sourcing, underwriting, dispo, and reporting.
 
-What Lux is really building
-- A market intelligence company with a real estate transaction layer on top
-- A buyer network with structured buy boxes, not just a contact list
-- A pricing engine that gets smarter as more quotes, comps, and outcomes enter the system
+What we are building now
+- A market map of high-value neighborhoods.
+- A buyer and buy box intelligence system.
+- A quote engine tied to comps and land signals.
+- Department operating notes that humans and bots can share.
+
+What is not the focus right now
+- Broad national coverage without density.
+- Low-end commodity deals.
+- Custom one-off workflows that cannot be repeated.
+
+Key operating question
+- How do we make each market feel like a locally dominant machine before adding the next one?

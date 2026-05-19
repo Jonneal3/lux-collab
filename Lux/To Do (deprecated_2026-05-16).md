@@ -3,9 +3,50 @@
 - Direct Mail
 
 Jon
-- Twilio stuff
-- Maps coloration still bad in oterh views
-- How can I get imessages to download? 
+- ~~Twilio stuff~~
+- ~~Maps coloration still bad in oterh views~~
+- ~~How can I get imessages to download?~~ 
+
+
+- Update email sending order and style looks shitty
+- Add property inserts into emails and texts (almost like merge field but full property info) - could be its own separate full property blurb field
+- Add docuemnt attachments into SMS, emails and store and see them in here - to proeprties etc
+- Pipeline flow viewer for all pipeline charts - add more stages liek responded etc 
+- Documents etc.
+- SMS push mclean
+- Add cotact "title" fields
+- Gather FTL properties and push
+- Have enrichment right in the CRM system and builder finders scraper etc
+- Push to FB
+- How could i basically use imessages in my conversation dash too? Still using my iphone right now - people use my cell
+- What happened to conversations for that particular contact? We should also maybe add this for buyer level too where we can select the contact to send to withn that company
+- Convert using gmail or email to SMTP etc 
+- Where do i begin on scheduled sends and followups for emiasl etc. 
+
+
+
+- Start data enrichment for agents/ builders etc.
+- Sweep up and re push other old ones
+- How do gmail API's / IMAP work?
+- Make calls through my system and record them
+- For all pipelines, we should have certain things be added when moving to that stage that we need
+- Add in making calls in this/tracking activirty in logs like calls etc
+- Start recording calls and using AI to translate into buyboxes etc
+ - Did we:
+	 - Pull in phone calls?
+	 - We need to:
+		 - Merge some buyers
+		 - Rename Contacts better
+		 - Connect contacts to buyers/ create new buyers if not exist
+		 - Start annotating buyers
+		 - Go through existing converations with buyers and pull in:
+			 - Buy boxes
+			 - Quotes
+			 - Start Having AI score them for like "stringy-ness" or something
+		- Start warming an email for notificaitions
+
+
+
 
 - Fix the pricing formula
 	- The formula:
