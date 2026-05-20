@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 207.5
   },
   "right": {
     "id": "f1d2c712b4300586",
@@ -209,7 +209,7 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "0ba3f73d75aafe56",
+  "active": "6462606f8bee0ae1",
   "lastOpenFiles": [
     "Lux/Company OS/Backlog/Founder Backlog.md",
     "Lux/To Do (deprecated_2026-05-16).md",
