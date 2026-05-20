@@ -7,7 +7,8 @@ Jon
 - ~~Maps coloration still bad in oterh views~~
 - ~~How can I get imessages to download?~~ 
 
-
+- Add an AI parser quick add feature where I can just dump info into an area and spit out either adding a property owner, multiple buyers, etc. 
+- Add an ARV redfin/zillow builder finder agent - Like put in a point on the map, a radius, and look at descriptions and parse them and find buyers companies in masse for all builds in that area
 - Update email sending order and style looks shitty
 - Add property inserts into emails and texts (almost like merge field but full property info) - could be its own separate full property blurb field
 - Add docuemnt attachments into SMS, emails and store and see them in here - to proeprties etc
