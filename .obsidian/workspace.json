@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lux/To Do (deprecated_2026-05-16).md",
+                "file": "Lux/Company OS/Backlog/To Do Items/To Do (deprecated_2026-05-16).md",
                 "mode": "source",
                 "source": false
               },
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.5
+    "width": 368.5
   },
   "right": {
     "id": "f1d2c712b4300586",
@@ -211,8 +211,12 @@
   },
   "active": "6462606f8bee0ae1",
   "lastOpenFiles": [
+    "Lux/Company OS/Backlog/To Do Items/Twilio SMS Reputation.md",
+    "Lux/Company OS/Backlog/To Do Items/To Do (deprecated_2026-05-16).md",
+    "Lux/Company OS/Backlog/To Do Items",
     "Lux/Company OS/Backlog/Founder Backlog.md",
-    "Lux/To Do (deprecated_2026-05-16).md",
+    "Lux/Company OS/Backlog/Automation Queue.md",
+    "Lux/Company OS/Backlog/Product Backlog.md",
     "Lux/Company OS/Archive/Legacy Root Notes (deprecated_2026-05-16)/Notes (deprecated_2026-05-16).md",
     "Lux/Company OS/01 - Company Thesis.md",
     "Lux/Company OS/00 - Start Here.md",
@@ -238,14 +242,10 @@
     "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Quote Engine/1 - Buyer Layer (deprecated_2026-05-16).md",
     "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Adding New Markets/Adding A New Geographical Market (deprecated_2026-05-16).md",
     "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Adding New Markets/Comps",
-    "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Updates (deprecated_2026-05-16).md",
-    "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Trends (deprecated_2026-05-16).md",
-    "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Tech Stack (deprecated_2026-05-16).md",
     "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Quote Engine",
     "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Adding New Markets",
     "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)",
     "Lux/Company OS/Archive/Property Legacy Drafts (deprecated_2026-05-16)/Edgewood",
-    "Lux/Company OS/Archive/Property Legacy Drafts (deprecated_2026-05-16)/Charlotte",
-    "Lux/Company OS/Archive/Property Legacy Drafts (deprecated_2026-05-16)/4716 W San Rafeal"
+    "Lux/Company OS/Archive/Property Legacy Drafts (deprecated_2026-05-16)/Charlotte"
   ]
 }

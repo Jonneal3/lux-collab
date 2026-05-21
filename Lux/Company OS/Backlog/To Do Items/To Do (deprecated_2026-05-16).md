@@ -27,6 +27,7 @@ Jon
 - Also, lets get the bones ready fro a front end link to and estiamte tool that (homeonwer or perpoty) owners can go to and check their peropetries value (this will be accesed outside the app) just get teh bones raeady < Where di you put this?
 
 
+- Know who has or hasnt actually been blasted a particualr propett in the notify pipeline and what went through or didnt
 - For all pipelines, we should have certain things be added when moving to that stage that we need - so like for moving a step, certain things ha
 - Start data enrichment for agents/ builders etc.
 - SMS push mclean
@@ -42,7 +43,7 @@ Jon
 
 - Sweep up and re push other old ones
 - How do gmail API's / IMAP work?
-- 
+- How to do followups in this ?
  - Did we:
 	 - Pull in phone calls?
 	 - We need to:
