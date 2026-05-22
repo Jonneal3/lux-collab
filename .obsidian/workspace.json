@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lux/Company OS/05 - Update Log.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05 - Update Log"
-            }
-          },
-          {
-            "id": "6462606f8bee0ae1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Lux/Company OS/Backlog/To Do Items/To Do (deprecated_2026-05-16).md",
                 "mode": "source",
                 "source": false
@@ -35,8 +21,7 @@
               "title": "To Do (deprecated_2026-05-16)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,10 +194,13 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "6462606f8bee0ae1",
+  "active": "aaa4aa05b9a50162",
   "lastOpenFiles": [
-    "Lux/Company OS/Backlog/To Do Items/Twilio SMS Reputation.md",
+    "Lux/Company OS/05 - Update Log.md",
+    "Lux/Company OS/Backlog/00 - Backlog Index.md",
     "Lux/Company OS/Backlog/To Do Items/To Do (deprecated_2026-05-16).md",
+    "Lux/Company OS/Backlog/To Do Items/Done.md",
+    "Lux/Company OS/Backlog/To Do Items/Twilio SMS Reputation.md",
     "Lux/Company OS/Backlog/To Do Items",
     "Lux/Company OS/Backlog/Founder Backlog.md",
     "Lux/Company OS/Backlog/Automation Queue.md",
@@ -221,7 +209,6 @@
     "Lux/Company OS/01 - Company Thesis.md",
     "Lux/Company OS/00 - Start Here.md",
     "Lux/00 - Vault Home.md",
-    "Lux/Company OS/05 - Update Log.md",
     "Lux/Company OS/06 - 12 Month Goals.md",
     "Lux/Company OS/03 - Human + AI Operating Model.md",
     "Lux/Company OS/04 - Weekly Operating Rhythm.md",
@@ -239,8 +226,6 @@
     "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Quote Engine/Quote Engine System - Overview (deprecated_2026-05-16).md",
     "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Quote Engine/Future - Parcel Layer",
     "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Quote Engine/Buyboxes",
-    "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Quote Engine/1 - Buyer Layer (deprecated_2026-05-16).md",
-    "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Adding New Markets/Adding A New Geographical Market (deprecated_2026-05-16).md",
     "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Adding New Markets/Comps",
     "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Quote Engine",
     "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Adding New Markets",

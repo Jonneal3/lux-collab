@@ -3,31 +3,32 @@
 - Direct Mail
 
 Jon
-- ~~Twilio stuff~~
-- ~~Maps coloration still bad in oterh views~~
-- ~~How can I get imessages to download?~~ 
 
-- Fix math equation from comps to ARV
+
+- Add docuemnt attachments into SMS, emails and store and see them in here - to proeprties etc. In generl we need to create a documents DB, where we can upload documents and the should have relationship with buyers, properties etc - Like for each we can just uploaed dcs that are relevant - pictures of the propety, site sutveyrs etc so add a descitption dfield that we can name teh doc keep it simple to start < Good but the attach document thing is huge lol just put a little paperclip above the compoe areato aattach like noral email places do
+- ~~Pipeline flow viewer for all pipeline charts -SANKEY diagram for the dashbaord as well as what we currentl;y have. Also move the pipeline that we have there to the properties tab - so we have pipeline ofproperties and each property has its own pipeline < we didnt do this. I see pipeline still in teh dashboard. Should be moves to properties tab. SEPARATELY the sankey diagram that you made can stay in teh dashboard whereas you can make a toggle for yearly monthly diagram at teh top. The sankey diagram should be a flow of the properties throuhg pipeline and look WAYYYYYYY better than what you made~~
+- ~~add more stages liek responded etc  to the property pipeline should be able to scroll and more simply move to other stages - I noticed that the column headers are not always visible when they should be and I should be able to drag and drop and move stufff visibily easily < Column headers are still not visible and you have a double scrolling scnario going on, Keep column headers locked and satic so when we have a lrge list of properties we can scorll down and know what stage we move to~~
+- Make calls through my system and record them- we bascially need to add the basics of a telephony systemi nto this.so add a teltphone top right where we can dial and call. But also some clock to dial feature beside phone numbers in contacts and buyers in the UI. The telpny system should again reor the calls, time, store teh recording, log it, allow dialing etc -= start there<< ok but basically the way i want it is when clicking to dial, it basically says ready to call? What number and we dial out  take that phone top righ nav and start teh call there. That top right phone thing should already ahve aout twilio numbers in teh dropdown preloaded to choose. Also on the top right we can jsut make a call to anywhere so havea dialpad simply, you dont need to show recent calls there either jsut move them to our top right logger. You dont need the call thing a modal jsut expand and collapse from the top right phone call button (Revised: I see you made this bottom right? Just move that to teh call button top menu)
+- ~~Add in making calls in this/tracking activirty in logs like calls etc > Good~~
+
+
+
+
+
+ - Fix math equation from comps to ARV
+	 - Price/sqft / per sqft (to account for lot size as well like bigger lots are more valuable)
 - ==Add an AI parser quick add feature where I can just dump info into an area and spit out either adding a property owner, multiple buyers, etc. -- have this in buyers, buy boxes, properties start there==
 - Add an ARV redfin/zillow builder finder agent - Like put in a point on the map, a radius, and look at descriptions and parse them and find buyers companies in masse for all builds in that area
 
-
-- ~~Update email sending order and style looks shitty - make it separate each message, the thread type view is very messy < OK job here but it should have new mesasge below collalapsible and shoul dexpand and collapse the existing thread too. It should be simple to click and see waht teh email was about without a ton of BS from previous convso cloudying it up~~
-
-- Add property inserts into emails and texts (almost like merge field but full property info) - could be its own separate full property blurb field -- almost like mail merge feature but for entire property- easiest way to do this is probabaly simply make migration file and push a new column to properties called "marketing_description" and we can pull this in for each property in our list < Hmmm. I see we added description looks like? BUT, in emails and SMS, we need to still have a dropdown where we can click on a property in teh dropdown when composing and email and pull that field into teh email for any property-should be a search feature and list and click it to add that field for that property into the email < Right bt dont make your own blurb, pull in teh marketing descipriotn field for the thing we already made in that field in teh property
-- Add docuemnt attachments into SMS, emails and store and see them in here - to proeprties etc. In generl we need to create a documents DB, where we can upload documents and the should have relationship with buyers, properties etc - Like for each we can just uploaed dcs that are relevant - pictures of the propety, site sutveyrs etc so add a descitption dfield that we can name teh doc keep it simple to start < Good but the attach document thing is huge lol just put a little paperclip above the compoe areato aattach like noral email places do
-- Add cotact "title" fields- make it a input and basiucally htis is like the person position at teh compaby < Good
-- What happened to conversations for that particular contact? We should also maybe add this for buyer level too where we can select the contact to send to withn that company- basically this is a way to look at teh conversation email/SMS for that contact and text or email teh mindividually. SHould be jsut as good as converstions tab i nterms on cleanliness minimlaist and featreset > Didnt add this to buyers but not a big deal
-- Pipeline flow viewer for all pipeline charts -SANKEY diagram for the dashbaord as well as what we currentl;y have. Also move the pipeline that we have there to the properties tab - so we have pipeline ofproperties and each property has its own pipeline < we didnt do this. I see pipeline still in teh dashboard. Should be moves to properties tab. SEPARATELY the sankey diagram that you made can stay in teh dashboard whereas you can make a toggle for yearly monthly diagram at teh top. The sankey diagram should be a flow of the properties throuhg pipeline and look WAYYYYYYY better than what you made
-- add more stages liek responded etc  to the property pipeline should be able to scroll and more simply move to other stages - I noticed that the column headers are not always visible when they should be and I should be able to drag and drop and move stufff visibily easily < Column headers are still not visible and you have a double scrolling scnario going on, Keep column headers locked and satic so when we have a lrge list of properties we can scorll down and know what stage we move to
-- Make calls through my system and record them- we bascially need to add the basics of a telephony systemi nto this.so add a teltphone top right where we can dial and call. But also some clock to dial feature beside phone numbers in contacts and buyers in the UI. The telpny system should again reor the calls, time, store teh recording, log it, allow dialing etc -= start there<< ok but basically the way i want it is when clicking to dial, it basically says ready to call? What number and we dial out  take that phone top righ nav and start teh call there. That top right phone thing should already ahve aout twilio numbers in teh dropdown preloaded to choose. Also on the top right we can jsut make a call to anywhere so havea dialpad simply, you dont need to show recent calls there either jsut move them to our top right logger. You dont need the call thing a modal jsut expand and collapse from the top right phone call button (Revised: I see you made this bottom right? Just move that to teh call button top menu)
-- Add in making calls in this/tracking activirty in logs like calls etc > Good
 - Start using AI in terms of reading transtipons of recods calls, transalting that to thngs it shuld do, and using AI to translate into buyboxes, to do items etc > I dont see any of this but lets wait on that anwyay make it capale from call transcripts and recordings etc 
+
+
+
 - Front end form for scott and mae to enter property into when they get one < I dont see this where is it? You should have it maybe as a dropdown form from property menu of like property form link clikc to open
 - Also, lets get the bones ready fro a front end link to and estiamte tool that (homeonwer or perpoty) owners can go to and check their peropetries value (this will be accesed outside the app) just get teh bones raeady < Where di you put this?
 
 
-- Know who has or hasnt actually been blasted a particualr propett in the notify pipeline and what went through or didnt
+Oh- Know who has or hasnt actually been blasted a particualr property in the notify pipeline and what went through or didnt
 - For all pipelines, we should have certain things be added when moving to that stage that we need - so like for moving a step, certain things ha
 - Start data enrichment for agents/ builders etc.
 - SMS push mclean
