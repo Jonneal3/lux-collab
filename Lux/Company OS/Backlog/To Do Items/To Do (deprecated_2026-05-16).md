@@ -4,17 +4,19 @@
 
 Jon
 
-
-- Add docuemnt attachments into SMS, emails and store and see them in here - to proeprties etc. In generl we need to create a documents DB, where we can upload documents and the should have relationship with buyers, properties etc - Like for each we can just uploaed dcs that are relevant - pictures of the propety, site sutveyrs etc so add a descitption dfield that we can name teh doc keep it simple to start < Good but the attach document thing is huge lol just put a little paperclip above the compoe areato aattach like noral email places do
-- ~~Pipeline flow viewer for all pipeline charts -SANKEY diagram for the dashbaord as well as what we currentl;y have. Also move the pipeline that we have there to the properties tab - so we have pipeline ofproperties and each property has its own pipeline < we didnt do this. I see pipeline still in teh dashboard. Should be moves to properties tab. SEPARATELY the sankey diagram that you made can stay in teh dashboard whereas you can make a toggle for yearly monthly diagram at teh top. The sankey diagram should be a flow of the properties throuhg pipeline and look WAYYYYYYY better than what you made~~
-- ~~add more stages liek responded etc  to the property pipeline should be able to scroll and more simply move to other stages - I noticed that the column headers are not always visible when they should be and I should be able to drag and drop and move stufff visibily easily < Column headers are still not visible and you have a double scrolling scnario going on, Keep column headers locked and satic so when we have a lrge list of properties we can scorll down and know what stage we move to~~
-- Make calls through my system and record them- we bascially need to add the basics of a telephony systemi nto this.so add a teltphone top right where we can dial and call. But also some clock to dial feature beside phone numbers in contacts and buyers in the UI. The telpny system should again reor the calls, time, store teh recording, log it, allow dialing etc -= start there<< ok but basically the way i want it is when clicking to dial, it basically says ready to call? What number and we dial out  take that phone top righ nav and start teh call there. That top right phone thing should already ahve aout twilio numbers in teh dropdown preloaded to choose. Also on the top right we can jsut make a call to anywhere so havea dialpad simply, you dont need to show recent calls there either jsut move them to our top right logger. You dont need the call thing a modal jsut expand and collapse from the top right phone call button (Revised: I see you made this bottom right? Just move that to teh call button top menu)
-- ~~Add in making calls in this/tracking activirty in logs like calls etc > Good~~
+- Something in the app is eating up my supabase data egress
+	- 
+- Make active markets setting pulls in and imports zip codes etc
+	- Then we can connect into a buyer search type agent
 
 
 
 
 
+
+
+
+- Gotta go through and still figure out how to notify the builders vs contacts and tons of builders have some weird dummy contact added to them
  - Fix math equation from comps to ARV
 	 - Price/sqft / per sqft (to account for lot size as well like bigger lots are more valuable)
 - ==Add an AI parser quick add feature where I can just dump info into an area and spit out either adding a property owner, multiple buyers, etc. -- have this in buyers, buy boxes, properties start there==
