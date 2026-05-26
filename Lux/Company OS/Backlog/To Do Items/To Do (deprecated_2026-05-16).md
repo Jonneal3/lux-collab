@@ -3,32 +3,38 @@
 - Direct Mail
 
 Jon
+- Make the pricing estiamte tool more liek a clacualtor with a few adjustments
+- Reference addresses can serve 2 data points - If we know what the owner bought a lot for and sold it at, we have 2 data points for same property comp
+
+- make a realt iem dev mode tagging system for isseus that are synced with github or obsidian or both etc- the point being that i can have superset conenct right into my local githib and take orders from the logs and just debug autoamticlly fro mtehre
 
 - Something in the app is eating up my supabase data egress
 	- 
-- Make active markets setting pulls in and imports zip codes etc
-	- Then we can connect into a buyer search type agent
-
-
-
-
-
-
+- Make active markets in settings setting pulls in and imports zip codes etc - simply see on a map where we are active for business - we already have the data in our DB
+	- Then we can connect into a buyer search type agent (in tha AI section) etc athat will then go ahead and start to pull in buyers (with various reserach methods we will continue to add, with LEGA scrapers etc) and we can pull in companies etc. Let =s get most of the bones here setup to do that. We are making a DSPy ai direcotry in another chat right now
 
 
 - Gotta go through and still figure out how to notify the builders vs contacts and tons of builders have some weird dummy contact added to them
+- Gettign erros when uploading documents
+
+
  - Fix math equation from comps to ARV
 	 - Price/sqft / per sqft (to account for lot size as well like bigger lots are more valuable)
-- ==Add an AI parser quick add feature where I can just dump info into an area and spit out either adding a property owner, multiple buyers, etc. -- have this in buyers, buy boxes, properties start there==
+
+- AI Modules
+	- First, start by implementing DSPy into its own separate proejct module in buyer and or seller - Is pythn so you haev to find the simplest easier way of impel,ementing into anext proejct. Then, we wanttoadd separrte directroy, moduesl and signaltures for all AI "aprts" of this app. Then add examples. Lets start wit hteh parts and fucntions below
+	- Add an AI parser quick add features for adding properties, buyers etc where I can just dump info into an area and spit out suggestions to add either adding a property owner, multiple buyers etc. -- have this in buyers,  contacts, buy boxes, properties start there
+	- Start using AI in terms of reading transtipons of recods calls, transalting that to thngs it shuld do, and using AI to translate into buyboxes, to do items etc > I dont see any of this but lets wait on that anwyay make it capale from call transcripts and recordings etc 
+	- Ise a simple model with GROQ, OpenAi or replicaet make it so. i can add those api keys and easily switch models. 
+
+- External Estiamtor
+	- Front end form for scott and mae to enter property into when they get one < I dont see this where is it? You should have it maybe as a dropdown form from property menu of like property form link clikc to open<<< SO i want 2 things.. one of them is an intake form of a property from an outsider that can go into my system. The other is basically the explore tab that is externallly used. Liek a person can enter their property and find their propery value estiamteion, meant for like a particualr person who wants to know the value of 1 property/front end link to and estiamte tool that (homeonwer or perpoty) owners can go to and check their peropetries value (this will be accesed outside the app) just get teh bones raeady < Where di you put this?
+
+Buyer Finding/Enrichment
 - Add an ARV redfin/zillow builder finder agent - Like put in a point on the map, a radius, and look at descriptions and parse them and find buyers companies in masse for all builds in that area
 
-- Start using AI in terms of reading transtipons of recods calls, transalting that to thngs it shuld do, and using AI to translate into buyboxes, to do items etc > I dont see any of this but lets wait on that anwyay make it capale from call transcripts and recordings etc 
-
-
-
-- Front end form for scott and mae to enter property into when they get one < I dont see this where is it? You should have it maybe as a dropdown form from property menu of like property form link clikc to open
-- Also, lets get the bones ready fro a front end link to and estiamte tool that (homeonwer or perpoty) owners can go to and check their peropetries value (this will be accesed outside the app) just get teh bones raeady < Where di you put this?
-
+Market Finders
+- Find hot pockets in the US where deals are clustering for new builds recently sold for high values
 
 Oh- Know who has or hasnt actually been blasted a particualr property in the notify pipeline and what went through or didnt
 - For all pipelines, we should have certain things be added when moving to that stage that we need - so like for moving a step, certain things ha
