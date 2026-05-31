@@ -8,8 +8,12 @@ Jon
 
 
 - Gotta go through and still figure out how to notify the builders vs contacts and tons of builders have some weird dummy contact added to them
-- How much should "get pricing" estiamtor use FOR SALE right now data?
-- Add in to build estiamtor the ARV # after build etc
+- Estimator
+	- ARV shouldnt be a solid numberit is also a range - we should have a slider for this
+	- Build sqft
+	- Buld SQFt os baesd on builder and also ARVS
+	- How much should "get pricing" estimator use FOR SALE right now data?
+	- Add in to build estiamtor the ARV # after build etc
 
 
 - External Estiamtor
