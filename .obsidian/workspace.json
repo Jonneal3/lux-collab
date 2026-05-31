@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "823d2d88744e51c9",
+        "id": "7090dfbcac1654bb",
         "type": "tabs",
         "children": [
           {
-            "id": "aaa4aa05b9a50162",
+            "id": "c999d055068ba06d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "To Do (deprecated_2026-05-16)"
             }
+          },
+          {
+            "id": "fdb132dbb87efe0d",
+            "type": "leaf",
+            "state": {
+              "type": "system3-differences-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "File Diff: To Do (deprecated_2026-05-16).md and local disk"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "to do",
+                "query": "facebook",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 279.5
   },
   "right": {
     "id": "f1d2c712b4300586",
@@ -194,17 +205,18 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "aaa4aa05b9a50162",
+  "active": "fdb132dbb87efe0d",
   "lastOpenFiles": [
-    "Lux/Company OS/Backlog/To Do Items/Twilio SMS Reputation.md",
+    "Lux/Company OS/Archive/Legacy Root Notes (deprecated_2026-05-16)/Methods (deprecated_2026-05-16).md",
+    "Lux/Company OS/Departments/Sales/Sales - Buyer Sourcing Methods.md",
+    "conflict-files-obsidian-git.md",
     "Lux/Company OS/Backlog/To Do Items/To Do (deprecated_2026-05-16).md",
     "Lux/Company OS/Backlog/To Do Items/Done.md",
+    "Lux/Company OS/Backlog/To Do Items/Twilio SMS Reputation.md",
     "Lux/Company OS/05 - Update Log.md",
-    "Lux/Company OS/Backlog/00 - Backlog Index.md",
+    "Lux/To Do (deprecated_2026-05-16).md",
     "Lux/Company OS/Backlog/To Do Items",
     "Lux/Company OS/Backlog/Founder Backlog.md",
-    "Lux/Company OS/Backlog/Automation Queue.md",
-    "Lux/Company OS/Backlog/Product Backlog.md",
     "Lux/Company OS/Archive/Legacy Root Notes (deprecated_2026-05-16)/Notes (deprecated_2026-05-16).md",
     "Lux/Company OS/01 - Company Thesis.md",
     "Lux/Company OS/00 - Start Here.md",
@@ -223,7 +235,6 @@
     "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Quote Engine/Buyboxes/ARV - How to add this in (deprecated_2026-05-16).md",
     "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Quote Engine/Buyboxes/Buy Boxes - Data Points (deprecated_2026-05-16).md",
     "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Adding New Markets/Comps/Comps System (Separate from Buyers) (deprecated_2026-05-16).md",
-    "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Quote Engine/Quote Engine System - Overview (deprecated_2026-05-16).md",
     "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Quote Engine/Future - Parcel Layer",
     "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Quote Engine/Buyboxes",
     "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Adding New Markets/Comps",

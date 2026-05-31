@@ -5,7 +5,7 @@
 Jon
 
 - ~~When adding a new property - Enrich from redfin autoamtically and show siggestions in the fields
-- We arent receiving inbound SMS 
+- We arent receiving inbound SMS
 - Affiliates section and payouts
 - Connect Twilio for call forwarding?
 - When I send out drip emails does it work in the background at teh srever level?
@@ -20,42 +20,31 @@ Jon
 - Also add a social posting column in properties and custom field in the property section in UI as well - noticing that a social posting is much differnt than a template and call it social post marketing description (its different than a direct messaging version)
 - Add social post template dropdown in that area of the UI too to simply just add teh social post template into that area easily
 - Im starting to noticed that, reference addresses can serve 2 data points. Same with ARV's. - If we know what the owner bought a lot for and sold it at, we have 2 data points for same property comp in these scenarios right? Like redfin or zillow usually shows the alst purchase price and date. So when adding a refernce to a buyer we need to basically pull out the bought for comp and the ARV value - same with the ARV (in teh ARV table) and even same with properties table adding comps
-- New emails in buyer and contact view - Firstly, we should be able to choose a contact within the buyer conversations tab, within that company to email. Any ANY time, we should be able to start a new conversation with any contact. Right now, if we change contact info for a contact, it wont create a new conversation (jsut says, continuing thread) or something. 
+- New emails in buyer and contact view - Firstly, we should be able to choose a contact within the buyer conversations tab, within that company to email. Any ANY time, we should be able to start a new conversation with any contact. Right now, if we change contact info for a contact, it wont create a new conversation (jsut says, continuing thread) or something.
 - Save Pricing reference estimator to the property itself (if we keep the record) - Like when we go through the explore tab and step 1-3, and then go back to left sidebar, when we click add, it maybe we should add fields into our DB to save the price calcualtor info?
 - Cants edit notes all cross the board - allow this
 - What happened to teh toggle of notify buyers or whatnot? Like how do we denote notifying buyer contacts vs the business info email?
 - ~~Gmail setup error - I just added my emai lthrough nango which is good but it says SMAIL INBOX ERROR and i cant send email thogh i dont know why - its not pulling in from my nango app list~~
 - Still have the weird double scroll going on on buyers pages lke we can scroll main page and the dropdown section which is weird - i suspect this is happening on lots of those pages too like contacts etc.
 - Im noticing that we still have loading issue thorugh out the app.. Very slow to tab through. I thought we did a massive update on this in which we load all data i nteh app into caceh on login and then jsut access it all when tabbing and difernt pages? Should never need to load rarely yet we still do allllll over the app. Still has loading issue within sub tabs form some reason everythng should alreayd be loaded.
-- Find buyer dropdown to add to property needs a search or filter mechanism 
+- Find buyer dropdown to add to property needs a search or filter mechanism
 - When adding buyers we need to make sure that its required we add a city and state (also make these dropdowns from active markets so that its easy to select and more uniform in DB)
 - Merge contacts - im noticing duplicate contacts in teh Db - make a simple system to merge 2 contacts or buyers or properties - ask the user which one to preserve and maybe always merge or fold that merged ones data (all of it - note setc) into a new note on the newst one as an option to retain the data
 
 
 - Also Ai button template to automatically make marketing description from template or AI to make it for a property
 - Make the pricing estiamte tool more liek a clacualtor with a few adjustments
-- We could probably store more redfin fields in properties for more accuracy - build sqft, year built etc
-- Setup Mac Shortcuts app
-- inbound call forwarding to my cdll phone
-- Follow ups - n8n
+- Reference addresses can serve 2 data points - If we know what the owner bought a lot for and sold it at, we have 2 data points for same property comp
 
 - make a realt iem dev mode tagging system for isseus that are synced with github or obsidian or both etc- the point being that i can have superset conenct right into my local githib and take orders from the logs and just debug autoamticlly fro mtehre
 
 - Something in the app is eating up my supabase data egress
 	- 
-
 - Make active markets in settings setting pulls in and imports zip codes etc - simply see on a map where we are active for business - we already have the data in our DB
 	- Then we can connect into a buyer search type agent (in tha AI section) etc athat will then go ahead and start to pull in buyers (with various reserach methods we will continue to add, with LEGA scrapers etc) and we can pull in companies etc. Let =s get most of the bones here setup to do that. We are making a DSPy ai direcotry in another chat right now
 
 
 - Gotta go through and still figure out how to notify the builders vs contacts and tons of builders have some weird dummy contact added to them
-- Estimator
-	- ARV shouldnt be a solid numberit is also a range - we should have a slider for this
-	- Build sqft
-	- Buld SQFt os baesd on builder and also ARVS
-	- How much should "get pricing" estimator use FOR SALE right now data?
-	- Add in to build estiamtor the ARV # after build etc
-
 - Gettign erros when uploading documents
 
 
@@ -67,9 +56,6 @@ Jon
 	- Add an AI parser quick add features for adding properties, buyers etc where I can just dump info into an area and spit out suggestions to add either adding a property owner, multiple buyers etc. -- have this in buyers,  contacts, buy boxes, properties start there
 	- Start using AI in terms of reading transtipons of recods calls, transalting that to thngs it shuld do, and using AI to translate into buyboxes, to do items etc > I dont see any of this but lets wait on that anwyay make it capale from call transcripts and recordings etc 
 	- Ise a simple model with GROQ, OpenAi or replicaet make it so. i can add those api keys and easily switch models. 
-
-- How much should "get pricing" estiamtor use FOR SALE right now data?
-- Add in to build estiamtor the ARV # after build etc
 
 - External Estiamtor
 	- Front end form for scott and mae to enter property into when they get one < I dont see this where is it? You should have it maybe as a dropdown form from property menu of like property form link clikc to open<<< SO i want 2 things.. one of them is an intake form of a property from an outsider that can go into my system. The other is basically the explore tab that is externallly used. Liek a person can enter their property and find their propery value estiamteion, meant for like a particualr person who wants to know the value of 1 property/front end link to and estiamte tool that (homeonwer or perpoty) owners can go to and check their peropetries value (this will be accesed outside the app) just get teh bones raeady < Where di you put this?
