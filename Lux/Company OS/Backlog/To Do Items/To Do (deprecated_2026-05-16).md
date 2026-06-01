@@ -5,19 +5,13 @@
 Jon
 
 - ~~When adding a new property - Enrich from redfin autoamtically and show siggestions in the fields
-- We arent receiving inbound SMS
+- Phone
+	- We arent receiving inbound SMS
+	- Connect Twilio for call forwarding?
 - Affiliates section and payouts
-- Connect Twilio for call forwarding?
-- When I send out drip emails does it work in the background at teh srever level?
-- Clean up email settings page and also conversations tab
-- Conversations inbox sucks right now - super muddy lots of random emails
 
 
 
-
-
-- Add a social post template to tempates section to save a post template (with same merge fields) etc for social posts
-- Also add a social posting column in properties and custom field in the property section in UI as well - noticing that a social posting is much differnt than a template and call it social post marketing description (its different than a direct messaging version)
 - Add social post template dropdown in that area of the UI too to simply just add teh social post template into that area easily
 - Im starting to noticed that, reference addresses can serve 2 data points. Same with ARV's. - If we know what the owner bought a lot for and sold it at, we have 2 data points for same property comp in these scenarios right? Like redfin or zillow usually shows the alst purchase price and date. So when adding a refernce to a buyer we need to basically pull out the bought for comp and the ARV value - same with the ARV (in teh ARV table) and even same with properties table adding comps
 - New emails in buyer and contact view - Firstly, we should be able to choose a contact within the buyer conversations tab, within that company to email. Any ANY time, we should be able to start a new conversation with any contact. Right now, if we change contact info for a contact, it wont create a new conversation (jsut says, continuing thread) or something.
@@ -35,6 +29,10 @@ Jon
 - Also Ai button template to automatically make marketing description from template or AI to make it for a property
 - Make the pricing estiamte tool more liek a clacualtor with a few adjustments
 - Reference addresses can serve 2 data points - If we know what the owner bought a lot for and sold it at, we have 2 data points for same property comp
+- We could probably store more redfin fields in properties for more accuracy - build sqft, year built etc
+- Setup Mac Shortcuts app
+- inbound call forwarding to my cdll phone
+- Follow ups - n8n
 
 - make a realt iem dev mode tagging system for isseus that are synced with github or obsidian or both etc- the point being that i can have superset conenct right into my local githib and take orders from the logs and just debug autoamticlly fro mtehre
 
@@ -45,6 +43,13 @@ Jon
 
 
 - Gotta go through and still figure out how to notify the builders vs contacts and tons of builders have some weird dummy contact added to them
+- Estimator
+	- ARV shouldnt be a solid numberit is also a range - we should have a slider for this
+	- Build sqft
+	- Buld SQFt os baesd on builder and also ARVS
+	- How much should "get pricing" estimator use FOR SALE right now data?
+	- Add in to build estiamtor the ARV # after build etc
+
 - Gettign erros when uploading documents
 
 

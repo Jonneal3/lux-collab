@@ -1,4 +1,9 @@
 - ~~Twilio stuff~~
+- - ~~Add a social post template to tempates section to save a post template (with same merge fields) etc for social posts~~
+- ~~Also add a social posting column in properties and custom field in the property section in UI as well - noticing that a social posting is much differnt than a template and call it social post marketing description (its different than a direct messaging version)
+- When I send out drip emails does it work in the background at teh srever level? - YES~~
+- ~~Clean up email settings page and also conversations tab~~
+- ~~Conversations inbox sucks right now - super muddy lots of random emails
  - ~~Fix math equation from comps to ARV~~
 	 - ~~Price/sqft / per sqft (to account for lot size as well like bigger lots are more valuable)~~
 -  ~~AI Modules~~

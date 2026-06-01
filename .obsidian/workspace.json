@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "To Do (deprecated_2026-05-16)"
             }
-          },
-          {
-            "id": "fdb132dbb87efe0d",
-            "type": "leaf",
-            "state": {
-              "type": "system3-differences-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "File Diff: To Do (deprecated_2026-05-16).md and local disk"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,18 +190,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "system3-relay:Relay": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdb132dbb87efe0d",
+  "active": "c999d055068ba06d",
   "lastOpenFiles": [
+    "Lux/Company OS/Backlog/To Do Items/Done.md",
+    "Lux/Company OS/Backlog/To Do Items/Twilio SMS Reputation.md",
+    "Lux/Company OS/Backlog/To Do Items/To Do (deprecated_2026-05-16).md",
     "Lux/Company OS/Archive/Legacy Root Notes (deprecated_2026-05-16)/Methods (deprecated_2026-05-16).md",
     "Lux/Company OS/Departments/Sales/Sales - Buyer Sourcing Methods.md",
     "conflict-files-obsidian-git.md",
-    "Lux/Company OS/Backlog/To Do Items/To Do (deprecated_2026-05-16).md",
-    "Lux/Company OS/Backlog/To Do Items/Done.md",
-    "Lux/Company OS/Backlog/To Do Items/Twilio SMS Reputation.md",
     "Lux/Company OS/05 - Update Log.md",
     "Lux/To Do (deprecated_2026-05-16).md",
     "Lux/Company OS/Backlog/To Do Items",
