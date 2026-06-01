@@ -51,15 +51,7 @@ Estimator
  - Fix math equation from comps to ARV
 	 - Price/sqft / per sqft (to account for lot size as well like bigger lots are more valuable)
 
-- AI Modules
-	- First, start by implementing DSPy into its own separate proejct module in buyer and or seller - Is pythn so you haev to find the simplest easier way of impel,ementing into anext proejct. Then, we wanttoadd separrte directroy, moduesl and signaltures for all AI "aprts" of this app. Then add examples. Lets start wit hteh parts and fucntions below
-	- Add an AI parser quick add features for adding properties, buyers etc where I can just dump info into an area and spit out suggestions to add either adding a property owner, multiple buyers etc. -- have this in buyers,  contacts, buy boxes, properties start there
-	- Start using AI in terms of reading transtipons of recods calls, transalting that to thngs it shuld do, and using AI to translate into buyboxes, to do items etc > I dont see any of this but lets wait on that anwyay make it capale from call transcripts and recordings etc 
-	- Ise a simple model with GROQ, OpenAi or replicaet make it so. i can add those api keys and easily switch models. 
-
-- External Estiamtor
-	- Front end form for scott and mae to enter property into when they get one < I dont see this where is it? You should have it maybe as a dropdown form from property menu of like property form link clikc to open<<< SO i want 2 things.. one of them is an intake form of a property from an outsider that can go into my system. The other is basically the explore tab that is externallly used. Liek a person can enter their property and find their propery value estiamteion, meant for like a particualr person who wants to know the value of 1 property/front end link to and estiamte tool that (homeonwer or perpoty) owners can go to and check their peropetries value (this will be accesed outside the app) just get teh bones raeady < Where di you put this?
-
+-
 Buyer Finding/Enrichment
 - Add an ARV redfin/zillow builder finder agent - Like put in a point on the map, a radius, and look at descriptions and parse them and find buyers companies in masse for all builds in that area
 
@@ -99,23 +91,6 @@ Oh- Know who has or hasnt actually been blasted a particualr property in the not
 
 
 
-- Fix the pricing formula
-	- The formula:
-		- Break everything down into a grid based on this
-			- Data points weighted on:
-				- Type
-					- Select or manually add more comps
-						- Need to be more accurate - 	- Comps are not all accurately tear downs - Some are reno's etc
-							- **Listing description keywords** — Redfin usually includes the listing description in scraped data. Words like "renovated", "updated kitchen", "new roof", "remodeled", "hardwood floors refinished" are strong signals. This is easy to run with a keyword scan.
-								- Solution: 
-									- Have an AI image gen model look at the pictures
-									- Have a keyword match/AI scoring mechanism
-							- **Assessed value jumps** — if you can cross-reference county assessor data, a big assessed value increase mid-ownership usually follows a permit/reno
-								- Solution: This isnt always reported thought right?
-					- Quotes pull in on a gradient automatically
-					- Hearsay projects
-				- Proximity (distance)
-				- Time (when)
 
 
 - What about a scatterplot of quotes i nwhich we come up with the correct data to leave out? Like a rgression model taht finds likely outliers for price/sqft and leaves them removed if there s a lot of comps in an area
