@@ -1,9 +1,39 @@
+Done
+
+
+- ~~What happened to teh toggle of notify buyers or whatnot? Like how do we denote notifying buyer contacts vs the business info email? <<< When adding contact automatically have them selected. Then when we select contacts to blast, we can just pick and choose there from ones selected. Default is yes~~
+- ~~Contacts Need Addresses too etc.~~
+	- ~~For lone buyers~~
+- ~~Easily email properties to buyers who are intersted in real time - select the properties to attach~~
+- ~~Finish zip code update (atlanta, WPB)~~
+- ~~Re-compile comps for all zips~~
+- ~~Add Teardown Comps into active areas
+- ~~Active markets~~
+ - ~~Create a script to merge and de-duplicate buyers and contacts~~
+- ~~Buyers~~
+	- ~~Add more stuff like selecting spec or custom etc.~~
+	- ~~Add in "previous builds" and or "current builds"~~
+		- ~~The same comp selector and or adding in or connecting previous builds directly to a buyer~~
+		- ~~Website URL, redfin or zillow~~
+- ~~Properties~~
+	- ~~What happened to comps connected to property?~~
+- ~~Add Starting buybox templates for each active market~~
+- ~~Add starting buy boxes in bulk~~ 
+	- ~~Then go back and adjust the ones that were custom~~ 
+
+ - ~~Cants edit notes all cross the board - allow this~~
+- ~~When adding a new property - Enrich from redfin autoamtically and show siggestions in the fields~~
+- ~~New emails in buyer and contact view - Firstly, we should be able to choose a contact within the buyer conversations tab, within that company to email. Any ANY time, we should be able to start a new conversation with any contact. Right now, if we change contact info for a contact, it wont create a new conversation (jsut says, continuing thread) or something.~~
+- ~~Add social post template dropdown in that area of the UI too to simply just add teh social post template into that area easily~~
+- ~~Something in the app is eating up my supabase data egress~~
 - ~~Twilio stuff~~
-- - ~~Add a social post template to tempates section to save a post template (with same merge fields) etc for social posts~~
-- ~~Also add a social posting column in properties and custom field in the property section in UI as well - noticing that a social posting is much differnt than a template and call it social post marketing description (its different than a direct messaging version)
-- When I send out drip emails does it work in the background at teh srever level? - YES~~
+- ~~- Gmail setup error - I just added my emai lthrough nango which is good but it says SMAIL INBOX ERROR and i cant send email thogh i dont know why - its not pulling in from my nango app list~~
+- ~~Still have the weird double scroll going on on buyers pages lke we can scroll main page and the dropdown section which is weird - i suspect this is happening on lots of those pages too like contacts etc.~~
+- ~~- Add a social post template to tempates section to save a post template (with same merge fields) etc for social posts~~
+- ~~Also add a social posting column in properties and custom field in the property section in UI as well - noticing that a social posting is much differnt than a template and call it social post marketing description (its different than a direct messaging version)~~
+- ~~When I send out drip emails does it work in the background at teh srever level? - YES~~~~
 - ~~Clean up email settings page and also conversations tab~~
-- ~~Conversations inbox sucks right now - super muddy lots of random emails
+- ~~Conversations inbox sucks right now - super muddy lots of random emails~~
  - ~~Fix math equation from comps to ARV~~
 	 - ~~Price/sqft / per sqft (to account for lot size as well like bigger lots are more valuable)~~
 -  ~~AI Modules~~
@@ -13,13 +43,13 @@
 	- ~~Ise a simple model with GROQ, OpenAi or replicaet make it so. i can add those api keys and easily switch models.~~ 
 - ~~Maps coloration still bad in oterh views~~
 - ~~How can I get imessages to download?~~ 
-- - Something in the app is eating up my supabase data egress
-- make a realt iem dev mode tagging system for isseus that are synced with github or obsidian or both etc- the point being that i can have superset conenct right into my local githib and take orders from the logs and just debug autoamticlly fro mtehre
+- ~~- Something in the app is eating up my supabase data egress~~
+- ~~make a realt iem dev mode tagging system for isseus that are synced with github or obsidian or both etc- the point being that i can have superset conenct right into my local githib and take orders from the logs and just debug autoamticlly fro mtehre~~
 - ~~Add docuemnt attachments into SMS, emails and store and see them in here - to proeprties etc. In generl we need to create a documents DB, where we can upload documents and the should have relationship with buyers, properties etc - Like for each we can just uploaed dcs that are relevant - pictures of the propety, site sutveyrs etc so add a descitption dfield that we can name teh doc keep it simple to start < Good but the attach document thing is huge lol just put a little paperclip above the compoe areato aattach like noral email places do-- i also stil lse its being picky with the docuemnts, the types and not allowing me to upload anything really.. should allow for many formats~~
 - ~~Make calls through my system and record them- we bascially need to add the basics of a telephony systemi nto this.so add a teltphone top right where we can dial and call. But also some clock to dial feature beside phone numbers in contacts and buyers in the UI. The telpny system should again reor the calls, time, store teh recording, log it, allow dialing etc -= start there<< ok but basically the way i want it is when clicking to dial, it basically says ready to call? What number and we dial out  take that phone top righ nav and start teh call there. That top right phone thing should already ahve aout twilio numbers in teh dropdown preloaded to choose. Also on the top right we can jsut make a call to anywhere so havea dialpad simply, you dont need to show recent calls there either jsut move them to our top right logger. You dont need the call thing a modal jsut expand and collapse from the top right phone call button (Revised: I see you made this bottom right? Just move that to teh call button top menu)~~
 - ~~Add in making calls in this/tracking activirty in logs like calls etc > Good~~
 - ~~Pipeline flow viewer for all pipeline charts -SANKEY diagram for the dashbaord as well as what we currentl;y have. Also move the pipeline that we have there to the properties tab - so we have pipeline ofproperties and each property has its own pipeline < we didnt do this. I see pipeline still in teh dashboard. Should be moves to properties tab. SEPARATELY the sankey diagram that you made can stay in teh dashboard whereas you can make a toggle for yearly monthly diagram at teh top. The sankey diagram should be a flow of the properties throuhg pipeline and look WAYYYYYYY better than what you made~~
 - ~~add more stages liek responded etc  to the property pipeline should be able to scroll and more simply move to other stages - I noticed that the column headers are not always visible when they should be and I should be able to drag and drop and move stufff visibily easily < Column headers are still not visible and you have a double scrolling scnario going on, Keep column headers locked and satic so when we have a lrge list of properties we can scorll down and know what stage we move to~~
-- ~~Add property inserts into emails and texts (almost like merge field but full property info) - could be its own separate full property blurb field -- almost like mail merge feature but for entire property- easiest way to do this is probabaly simply make migration file and push a new column to properties called "marketing_description" and we can pull this in for each property in our list < Hmmm. I see we added description looks like? BUT, in emails and SMS, we need to still have a dropdown where we can click on a property in teh dropdown when composing and email and pull that field into teh email for any property-should be a search feature and list and click it to add that field for that property into the email < Right bt dont make your own blurb, pull in teh marketing descipriotn field for the thing we already made in that field in teh property~~- ~~Update email sending order and style looks shitty - make it separate each message, the thread type view is very messy < OK job here but it should have new mesasge below collalapsible and shoul dexpand and collapse the existing thread too. It should be simple to click and see waht teh email was about without a ton of BS from previous convso cloudying it up~~
+- ~~Add property inserts into emails and texts (almost like merge field but full property info) - could be its own separate full property blurb field -- almost like mail merge feature but for entire property- easiest way to do this is probabaly simply make migration file and push a new column to properties called "marketing_description" and we can pull this in for each property in our list < Hmmm. I see we added description looks like? BUT, in emails and SMS, we need to still have a dropdown where we can click on a property in teh dropdown when composing and email and pull that field into teh email for any property-should be a search feature and list and click it to add that field for that property into the email < Right bt dont make your own blurb, pull in teh marketing descipriotn field for the thing we already made in that field in teh property- Update email sending order and style looks shitty - make it separate each message, the thread type view is very messy < OK job here but it should have new mesasge below collalapsible and shoul dexpand and collapse the existing thread too. It should be simple to click and see waht teh email was about without a ton of BS from previous convso cloudying it up~~
 -  ~~Add cotact "title" fields- make it a input and basiucally htis is like the person position at teh compaby < Good~~
 - ~~What happened to conversations for that particular contact? We should also maybe add this for buyer level too where we can select the contact to send to withn that company- basically this is a way to look at teh conversation email/SMS for that contact and text or email teh mindividually. SHould be jsut as good as converstions tab i nterms on cleanliness minimlaist and featreset > Didnt add this to buyers but not a big deal~~
