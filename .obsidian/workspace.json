@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lux/Company OS/Backlog/To Do Items/To Do (deprecated_2026-05-16).md",
+                "file": "Lux/Company OS/Backlog/To Do Items/To Do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To Do (deprecated_2026-05-16)"
+              "title": "To Do"
             }
           }
         ]
@@ -195,10 +195,11 @@
   },
   "active": "c999d055068ba06d",
   "lastOpenFiles": [
+    "Lux/Company OS/Archive/To Do (deprecated_2026-05-16).md",
+    "Lux/Company OS/Backlog/To Do Items/To Do.md",
+    "Lux/Company OS/Backlog/To Do Items/Pricing Formula.md",
     "Lux/Company OS/Backlog/To Do Items/AI Features.md",
     "Lux/Company OS/Backlog/To Do Items/Done.md",
-    "Lux/Company OS/Backlog/To Do Items/To Do (deprecated_2026-05-16).md",
-    "Lux/Company OS/Backlog/To Do Items/Pricing Formula.md",
     "Lux/Company OS/Backlog/To Do Items/Twilio SMS Reputation.md",
     "Lux/Company OS/Backlog/To Do Items/Testing.md",
     "Lux/Company OS/Archive/Legacy Root Notes (deprecated_2026-05-16)/Methods (deprecated_2026-05-16).md",
@@ -222,7 +223,6 @@
     "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Quote Engine/Future - Parcel Layer/Basics (deprecated_2026-05-16).md",
     "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Quote Engine/Buyboxes/Updates (deprecated_2026-05-16).md",
     "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Quote Engine/Buyboxes/Buy Boxes - System Overview (deprecated_2026-05-16).md",
-    "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Quote Engine/Buyboxes/Buy Boxes - Evolving Through Time (deprecated_2026-05-16).md",
     "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Quote Engine/Future - Parcel Layer",
     "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Quote Engine/Buyboxes",
     "Lux/Company OS/Archive/App Legacy Drafts (deprecated_2026-05-16)/Adding New Markets/Comps",

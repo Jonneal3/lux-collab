@@ -1,4 +1,7 @@
-
+- ~~Oh- Know who has or hasnt actually been blasted a particualr property in the notify pipeline and what went through or didnt~~~~
+- ~~For all pipelines, we should have certain things be added when moving to that stage that we need - so like for moving a step, certain things ha~~
+- ~~Start data enrichment for agents/ builders etc.
+- We could probably store more redfin fields in properties for more accuracy - build sqft, year built etc
 - ~~Hover over the pin or comp and it highlights vce versa~~ 
 - ~~Comp card not displaying the right stuff on teh right~~
 - ~~The checkmark pboxes should be above comp section~~

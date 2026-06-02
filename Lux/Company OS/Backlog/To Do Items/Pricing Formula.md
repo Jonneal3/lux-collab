@@ -31,3 +31,10 @@ Estimator
 - Is there a way of calcuating land value / sqft better - form a more builder perspective - ARV / sqft
 
 What about a scatterplot of quotes i nwhich we come up with the correct data to leave out? Like a rgression model taht finds likely outliers for price/sqft and leaves them removed if there s a lot of comps in an area
+
+
+- Make the pricing estiamte tool more liek a clacualtor with a few adjustments
+
+ - Fix math equation from comps to ARV
+	 - Price/sqft / per sqft (to account for lot size as well like bigger lots are more valuable)
+

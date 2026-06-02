@@ -1,3 +1,4 @@
+- Have enrichment right in the CRM system and builder finders scraper etc
 - Add a system suggested buybox fill in feature
 	- it will basically use teardown comps in any given buybox for a new buyer to basically set a starting price floor area
 - Buyers Fimder
