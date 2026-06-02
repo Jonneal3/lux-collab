@@ -1,5 +1,9 @@
-Done
 
+- ~~Hover over the pin or comp and it highlights vce versa~~ 
+- ~~Comp card not displaying the right stuff on teh right~~
+- ~~The checkmark pboxes should be above comp section~~
+- ~~Is not pulling in all comps when chanign rdius size or on open seems to show differnt comps every time~~
+- ~~Im not seeing a manually add a comp button~~
  ~~AI Modules~~
 	- ~~First, start by implementing DSPy into its own separate proejct module in buyer and or seller - Is pythn so you haev to find the simplest easier way of impel,ementing into anext proejct. Then, we wanttoadd separrte directroy, moduesl and signaltures for all AI "aprts" of this app. Then add examples. Lets start wit hteh parts and fucntions below~~
 	- ~~Add an AI parser quick add features for adding properties, buyers etc where I can just dump info into an area and spit out suggestions to add either adding a property owner, multiple buyers etc. -- have this in buyers,  contacts, buy boxes, properties start there~~
