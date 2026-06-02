@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 245.5
   },
   "right": {
     "id": "f1d2c712b4300586",
@@ -193,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c999d055068ba06d",
+  "active": "88089e74ce1f6734",
   "lastOpenFiles": [
     "Lux/Company OS/Backlog/To Do Items/Pricing Formula.md",
     "Lux/Company OS/Backlog/To Do Items/To Do (deprecated_2026-05-16).md",
