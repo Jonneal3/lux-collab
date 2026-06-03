@@ -8,3 +8,6 @@
 - Market Finders
 	- Find hot pockets in the US where deals are clustering for new builds recently sold for high values
 	- Also Ai button template to automatically make marketing description from template or AI to make it for a property
+- Ai chatbot in general
+- AI agent running the whole thing?
+- AI suggestions from messages etc
