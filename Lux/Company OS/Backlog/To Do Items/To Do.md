@@ -56,13 +56,13 @@
 
 ---
 
-#### Active Markets
+#### ~~Active Markets~~
 
-- Active Markets settings page.
-    - Display markets on a map.
-    - Pull associated ZIP codes automatically.
-    - Leverage existing market data already stored in DB.
-    - Provide visual coverage of operating areas.
+- ~~Active Markets settings page.~~
+    - ~~Display markets on a map.~~
+    - ~~Pull associated ZIP codes automatically.~~
+    - ~~Leverage existing market data already stored in DB.~~
+    - ~~Provide visual coverage of operating areas.~~
 
 ---
 
