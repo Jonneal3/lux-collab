@@ -1,0 +1,11 @@
+## main...origin/main [ahead 2, behind 4]
+M  "Lux/Company OS/Archive/Git Conflict Archives/2026-06-03_141139-merge/workspace/workspace.remote-theirs.json"
+A  "Lux/Company OS/Archive/To Do (deprecated_2026-05-16).md"
+A  "Lux/Company OS/Backlog/To Do Items/AI Features.md"
+M  "Lux/Company OS/Backlog/To Do Items/Done.md"
+M  "Lux/Company OS/Backlog/To Do Items/Pricing Formula.md"
+A  "Lux/Company OS/Backlog/To Do Items/Testing.md"
+UD "Lux/Company OS/Backlog/To Do Items/To Do (deprecated_2026-05-16).md"
+A  "Lux/Company OS/Backlog/To Do Items/To Do.md"
+?? "Lux/Company OS/Archive/Git Conflict Archives/2026-06-03_141527-origin-main-merge/README.md"
+?? "Lux/Company OS/Archive/Git Conflict Archives/2026-06-03_141527-origin-main-merge/git/status-before-resolution.txt"

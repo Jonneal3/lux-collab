@@ -1,0 +1,10 @@
+- Have enrichment right in the CRM system and builder finders scraper etc
+- Add a system suggested buybox fill in feature
+	- it will basically use teardown comps in any given buybox for a new buyer to basically set a starting price floor area
+- Buyers Fimder
+	- Then we can connect into a buyer search type agent (in tha AI section) etc athat will then go ahead and start to pull in buyers (with various reserach methods we will continue to add, with LEGA scrapers etc) and we can pull in companies etc. Let =s get most of the bones here setup to do that. We are making a DSPy ai direcotry in another chat right now
+	- Buyer Finding/Enrichment
+	- Add an ARV redfin/zillow builder finder agent - Like put in a point on the map, a radius, and look at descriptions and parse them and find buyers companies in masse for all builds in that area
+- Market Finders
+	- Find hot pockets in the US where deals are clustering for new builds recently sold for high values
+	- Also Ai button template to automatically make marketing description from template or AI to make it for a property
