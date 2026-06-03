@@ -1,0 +1,9 @@
+## main...origin/main [ahead 1, behind 10]
+UU .obsidian/workspace.json
+R  "Lux/Company OS/Archive/Legacy Root Notes (deprecated_2026-05-16)/Methds (deprecated_2026-05-16).md" -> "Lux/Company OS/Archive/Legacy Root Notes (deprecated_2026-05-16)/Methods (deprecated_2026-05-16).md"
+M  "Lux/Company OS/Backlog/To Do Items/Done.md"
+A  "Lux/Company OS/Backlog/To Do Items/Pricing Formula.md"
+MM "Lux/Company OS/Backlog/To Do Items/To Do (deprecated_2026-05-16).md"
+?? "Lux/Company OS/Archive/Git Conflict Archives/2026-06-03_141139-merge/README.md"
+?? "Lux/Company OS/Archive/Git Conflict Archives/2026-06-03_141139-merge/git/status-before-resolution.txt"
+?? conflict-files-obsidian-git.md

@@ -1,0 +1,17 @@
+- Fix the pricing formula
+	- The formula:
+		- Break everything down into a grid based on this
+			- Data points weighted on:
+				- Type
+					- Select or manually add more comps
+						- Need to be more accurate - 	- Comps are not all accurately tear downs - Some are reno's etc
+							- **Listing description keywords** — Redfin usually includes the listing description in scraped data. Words like "renovated", "updated kitchen", "new roof", "remodeled", "hardwood floors refinished" are strong signals. This is easy to run with a keyword scan.
+								- Solution: 
+									- Have an AI image gen model look at the pictures
+									- Have a keyword match/AI scoring mechanism
+							- **Assessed value jumps** — if you can cross-reference county assessor data, a big assessed value increase mid-ownership usually follows a permit/reno
+								- Solution: This isnt always reported thought right?
+					- Quotes pull in on a gradient automatically
+					- Hearsay projects
+				- Proximity (distance)
+				- Time (when)

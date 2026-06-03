@@ -4,15 +4,8 @@
 
 Jon
 
-- Autosave
-- AI messaging (simple chatbot)
-- 
-
-
-
-- Document upload error
 - Phone
-	- We aren't receiving inbound SMS
+	- We arent receiving inbound SMS
 	- Connect Twilio for call forwarding?
 - Affiliates section and payouts
 - SMS messages in convo arent good

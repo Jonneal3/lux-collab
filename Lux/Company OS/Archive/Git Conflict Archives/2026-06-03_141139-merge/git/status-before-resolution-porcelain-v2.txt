@@ -1,0 +1,13 @@
+# branch.oid 9f303bf53ceaad70a5c11f82faced4a30ecb0d65
+# branch.head main
+# branch.upstream origin/main
+# branch.ab +1 -10
+2 R. N... 100644 100644 100644 5e1170265b21e58aafbaa60fa639de750a69ea49 5e1170265b21e58aafbaa60fa639de750a69ea49 R100 Lux/Company OS/Archive/Legacy Root Notes (deprecated_2026-05-16)/Methods (deprecated_2026-05-16).md	Lux/Company OS/Archive/Legacy Root Notes (deprecated_2026-05-16)/Methds (deprecated_2026-05-16).md
+1 M. N... 100644 100644 100644 77b3899bf093131dac343fcd402ce1b9495dcbfe 7301142c5d6c0e505e7a7dc7f670cd8a0feff1a5 Lux/Company OS/Backlog/To Do Items/Done.md
+1 A. N... 000000 100644 100644 0000000000000000000000000000000000000000 e51adebc5d419480d679fa1bb3bdb42eeb2b3ac2 Lux/Company OS/Backlog/To Do Items/Pricing Formula.md
+1 MM N... 100644 100644 100644 f3db12d1a23b2f5ed9b584981d0cce0751fbe60c d3ed9c20aa0f1a9d1f6d068baeeb4cae9b7d98d0 Lux/Company OS/Backlog/To Do Items/To Do (deprecated_2026-05-16).md
+u UU N... 100644 100644 100644 100644 16b916400a7403e5b7c4a70674da819bb23402b5 d56d03bcfeac33fc3c4499358cea12374c98ce3d 922ab6f7e8ec6e898bd6e4360be00c24a2d1032a .obsidian/workspace.json
+? Lux/Company OS/Archive/Git Conflict Archives/2026-06-03_141139-merge/README.md
+? Lux/Company OS/Archive/Git Conflict Archives/2026-06-03_141139-merge/git/status-before-resolution-porcelain-v2.txt
+? Lux/Company OS/Archive/Git Conflict Archives/2026-06-03_141139-merge/git/status-before-resolution.txt
+? conflict-files-obsidian-git.md
